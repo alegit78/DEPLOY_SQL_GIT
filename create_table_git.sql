@@ -1,1 +1,1 @@
-create table ale_git_deploy (nn number);
+create table ale_git_deploy2 (nn number);
