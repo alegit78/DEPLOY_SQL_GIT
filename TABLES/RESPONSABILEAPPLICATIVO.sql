@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Table RESPONSABILEAPPLICATIVO
+--------------------------------------------------------
+
+  CREATE TABLE "RESPONSABILEAPPLICATIVO" ("RESPONSABILEAPPLICATIVO_ID" NUMBER, "DISPLAYNAME" VARCHAR2(255), "EMAIL" VARCHAR2(255), "ENABLED" NUMBER(1,0), "NAME" VARCHAR2(255), "TECNICO" NUMBER(1,0), "TERZO" NUMBER(1,0), "VERSION" TIMESTAMP (6))

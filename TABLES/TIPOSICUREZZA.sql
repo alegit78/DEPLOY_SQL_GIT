@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Table TIPOSICUREZZA
+--------------------------------------------------------
+
+  CREATE TABLE "TIPOSICUREZZA" ("TIPOSICUREZZA_ID" NUMBER, "DISPLAYNAME" VARCHAR2(255), "NAME" VARCHAR2(255), "TIPOSSO_TIPOSSO_ID_OID" NUMBER, "TIPOUTENZADIDATABASE_TIPOUTENZADIDATABASE_ID_OID" NUMBER, "VERSION" TIMESTAMP (6))

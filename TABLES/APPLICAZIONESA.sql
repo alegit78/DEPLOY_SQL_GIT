@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Table APPLICAZIONESA
+--------------------------------------------------------
+
+  CREATE TABLE "APPLICAZIONESA" ("APPLICAZIONESA_ID" NUMBER, "DATADELETED" DATE, "DELETED" NUMBER(1,0), "DISPLAYNAME" VARCHAR2(255), "NAME" VARCHAR2(255), "ORDINE" VARCHAR2(255), "TIPOSICUREZZA_TIPOSICUREZZA_ID_OID" NUMBER, "VERSION" TIMESTAMP (6))

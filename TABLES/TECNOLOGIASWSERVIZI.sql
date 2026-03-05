@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Table TECNOLOGIASWSERVIZI
+--------------------------------------------------------
+
+  CREATE TABLE "TECNOLOGIASWSERVIZI" ("TECNOLOGIASWSERVIZI_ID" NUMBER, "DISPLAYNAME" VARCHAR2(255), "LANGUAGENAME" VARCHAR2(255), "NAME" VARCHAR2(255), "REFERREDTOAASSETTYPE" VARCHAR2(255), "VERSION" TIMESTAMP (6))
