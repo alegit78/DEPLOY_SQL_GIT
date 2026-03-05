@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Index APPLICAZIONISERVIZITECNICI_UNQ
+--------------------------------------------------------
+
+  CREATE UNIQUE INDEX "APPLICAZIONISERVIZITECNICI_UNQ" ON "APPLICAZIONISERVIZITECNICI" ("APPLICAZIONE_APPLICAZIONE_ID_OID", "SERVIZIOTECNICO_SERVIZIO_ID_OID", "NONPIF9INUSO")
