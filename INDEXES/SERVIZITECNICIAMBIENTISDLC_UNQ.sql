@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Index SERVIZITECNICIAMBIENTISDLC_UNQ
+--------------------------------------------------------
+
+  CREATE UNIQUE INDEX "SERVIZITECNICIAMBIENTISDLC_UNQ" ON "SERVIZITECNICIAMBIENTISDLC" ("SERVIZIOTECNICO_SERVIZIO_ID_OID", "AMBIENTESDLC_AMBIENTESDLC_ID_OID")

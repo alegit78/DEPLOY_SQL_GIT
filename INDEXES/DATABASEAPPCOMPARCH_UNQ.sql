@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Index DATABASEAPPCOMPARCH_UNQ
+--------------------------------------------------------
+
+  CREATE UNIQUE INDEX "DATABASEAPPCOMPARCH_UNQ" ON "DATABASEAPPCOMPARCH" ("DATABASE_DATABASE_ID_OID", "APPLICAZIONECOMPONENTEARCHITETTURA_APPLICAZIONE_COMPARCH_ID_OID")

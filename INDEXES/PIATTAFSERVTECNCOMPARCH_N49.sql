@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Index PIATTAFSERVTECNCOMPARCH_N49
+--------------------------------------------------------
+
+  CREATE INDEX "PIATTAFSERVTECNCOMPARCH_N49" ON "PIATTAFSERVTECNCOMPARCH" ("SERVIZIOTECNICOCOMPONENTEARCHITETTURA_SERVIZIOTECNICO_COMPONENTE_ID_OID")

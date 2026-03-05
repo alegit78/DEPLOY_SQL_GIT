@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Index PIATTAFAPPCOMPARCH_UNQ
+--------------------------------------------------------
+
+  CREATE UNIQUE INDEX "PIATTAFAPPCOMPARCH_UNQ" ON "PIATTAFAPPCOMPARCH" ("PIATTAFORMA_PIATTAFORMA_ID_OID", "APPLICAZIONECOMPONENTEARCHITETTURA_APPLICAZIONE_COMPARCH_ID_OID")

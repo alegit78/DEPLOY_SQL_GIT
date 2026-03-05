@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Index DATABASESERVTECNCOMPARCH_N50
+--------------------------------------------------------
+
+  CREATE INDEX "DATABASESERVTECNCOMPARCH_N50" ON "DATABASESERVTECNCOMPARCH" ("SERVIZIOTECNICOCOMPONENTEARCHITETTURA_SERVIZIOTECNICO_COMPONENTE_ID_OID")
