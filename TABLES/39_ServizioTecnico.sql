@@ -1,5 +1,0 @@
---------------------------------------------------------
---  DDL for Table ServizioTecnico
---------------------------------------------------------
-
-  CREATE TABLE "ServizioTecnico" ("servizio_id" NUMBER, "URIBaseRepository" VARCHAR2(255), "daSottoporreASoftwareAnalytics" NUMBER(1,0), "database_TipoDatabase_id_OID" NUMBER, "descrizione" VARCHAR2(1000), "dismessa" NUMBER(1,0), "gruppoAutorizzativo" VARCHAR2(255), "nome" VARCHAR2(40), "specificitaDiConfigurazione" VARCHAR2(255), "sso_TipoSso_id_OID" NUMBER, "tipoRepository_TipoSCM_id_OID" NUMBER, "trunkOUltimoTag" VARCHAR2(255), "version" TIMESTAMP (6), "tipoServizioTecnico_TipoServizioTecnico_id_OID" NUMBER, "indiceDiMovimentazione_TipoIndice3_id_OID" NUMBER, "tipoDiAutorizzazione_TipoAutorizzazione_id_OID" NUMBER, "contestoApplicativo_ContestoApplicativo_id_OID" NUMBER, "tipoSicurezza_TipoSicurezza_id_OID" NUMBER, "areaApplicativa_AreaApplicativa_id_OID" NUMBER, "utenzaDiDatabase_TipoUtenzaDiDatabase_id_OID" NUMBER, "responsabileApplicativo_ResponsabileApplicativo_id_OID" NUMBER, "indiceDiCriticita_TipoIndice3_id_OID" NUMBER, "tipoDiAutenticazione_TipoAutenticazione_id_OID" NUMBER)
